@@ -1,0 +1,23 @@
+h2 {
+    text-align: center;
+    margin-top: 10px;
+}
+
+#image {
+    float: left;
+    margin-left: 320px;
+    /*margin-right: 50%;*/
+    border: solid grey 3px;
+}
+
+#buyy {
+    border: solid 1px red;
+    background-color: yellow;
+    border-radius: 3px;
+    padding: 5px 10px; 
+}
+
+footer{
+    margin-top: 1px
+}
+
